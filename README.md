@@ -1,2 +1,2 @@
-# Aprendizaje-de-Maquinas-Enfoque-Pr-ctico
+# Aprendizaje de Maquinas: Enfoque Practico
 Trazabilidad del curso
