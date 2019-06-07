@@ -1,0 +1,16 @@
+Resumen Proyecto AURA-Telefonica.
+
+Aura es una plataforma de inteligencia Artificial, que tiene incorporados procesos de aprendizaje automatico para interactuar de manera novedosa con los clientes. Se puede acceder a AURA mediante distintos canales.
+A grandes rasgos su uso consiste de los siguientes pasos: 1) El cliente pregunta algo a AURA en lenguaje natural, 2) Se reconoce automaticamente el habla para transfomarse en texto. 3) AURA realiza una accion con base en la pregunta. 4)La API obtiene una respuesta transaccional y/o Anal’tica.  5) el cliente recibe una respuesta y/o recomendaci—n transcrita.
+
+
+
+El procesamiento de lenguaje natural es claramente el CORE de la plataforma propuesta por Telefonica. El entrenamiento del algoritmo se realiza mediante el analisis de las distintas formas de nombrar una misma entidad; se reconocen los distintos flujos de dialogo posibles; Niveles de analisis de la lengua (morfologico, lexico, etc.); asi como los productos analiticos obtenidos(Frecuencia de palabras, Nube de palabras, Frecuenci a de conceptos, An‡lisis de t—picos, Similitud lŽxica, Sentiment Analysis, Stance detection, Buscador de contenido, Bots, entre otros). AURA constituye un ensamblaje de tecnicas NLP.
+   Referencias:
+* ÀPor quŽ 'Siri', 'Alexa' o 'Cortana' son todas mujeres?- MIKEL FONSECAMartes, 10 abril 2018, 00:16
+
+* Aura, as’ ayuda Paradigma a Telef—nica en su revoluci—n digitalÊHugo Fern‡ndezÊyÊDaniel Povedano, 22 de octubre del 2018
+
+* Proyecto AURA. Mg. Lic. Alejandro M. Salevsky   , Alejandro.Salevsky@telefonica.com. Lic. Catalina Rubio catalina.rubio@telefonica.com
+
+
