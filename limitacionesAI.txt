@@ -1,0 +1,13 @@
+Limitaciones del Aprendizaje de Maquinas 
+
+El aprendizaje de máquinas es un caso particular de la Inteligencia Artificial (IA), esta última es una abstracción de la inteligencia humana y por definición tiene limitaciones, sus objetivos son básicamente los que siguen: 1. Automatizar procesos humanos mediante máquinas, 2. Instruirse en los procesos del cerebro humano, y 3. Crear instrumentos con atributos semejantes a los de la Inteligencia humana capaces de entender el sistema interno y externo, con el fin de tomar decisiones y de comunicarlas.  Según Francisco Rueda (1993), La IA consta de dos elementos: Una base de conocimientos (no de datos) que varía con el tiempo según las circunstancias del sistema y de un motor de Inferencia.
+Existen varios casos que resaltan la aplicabilidad y pertinencia de la IA, como ejemplo la Silla de Ikea, experimento en el que robots ensamblan una silla con total éxito, sin embargo, el proceso se tornó lento y los robots cometían errores de carácter motriz. La simulación de cualidades motrices y sensoriales requieren de mayor capacidad computacional respecto al modelamiento del pensamiento razonado (Paradoja de Moravek), por ende, resulta mas factible modelar la Inteligencia de una persona adulta que las capacidades sensoriales y motrices de un bebe (laszlobeke, 2018). La Inteligencia Artificial aun no logra que una maquina improvise soluciones instantáneas, se requiere de un proceso computacional.
+Otra de las razones por las cuales la IA se encuentra aún distante de la Inteligencia Humana es que la primera se construye con fines específicos e indudablemente a hoy, una maquina programada para jugar ajedrez, no será capaz de desarrollar con éxito un juego de Go, razón por la cual se afirma que la maquina carece de comprensión del mundo (como ejemplo, la ética). Adicionalmente, la maquina aprende de insumos (datos) previamente validados y estructurados que el humano le proporciona, en palabras de Télam (2016) la experiencia la proporciona el humano, la conciencia artificial no existe. 
+La IA resulta entonces ser un instrumento de decisión mas no la decisión en sí. La decisión aun permanece en manos del humano.
+
+Referencias:
+
+*UNA ESPECIALISTA EXPLICA LOS ALCANCES Y LÍMITES DE LA INTELIGENCIA ARTIFICIAL, Por Télam en Inteligencia Artificial 05 de Julio de 2016, 15:43.
+*Las limitaciones de la inteligencia artificial, RICHARD WATERS FINANCIAL TIMES, Actualizado: 14/12/2017 00:01 horas.
+*Las limitaciones de la inteligencia artificial, Francisco Rueda F. 23 de agosto 1993.
+*Los límites de la Inteligencia Artificial, laszlobeke, 2018.
