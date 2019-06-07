@@ -1,0 +1,21 @@
+Estrategias de ensamble en Machine Learning
+
+Los métodos de ensamble, también llamados métodos combinados, integran estadísticamente la información de diversos algoritmos de aprendizaje automático, de tal manera que el potencial predictivo del modelo resultante sea significativamente superior que los algoritmos individuales. En la práctica, resultados de pruebas empíricas demuestran que cuando se utilizan modelos individuales heterogéneos en su metodología, los ensambles se comportan predictivamente mejor. Por lo anterior, es común encontrar modelos individuales que consideran gran aleatoriedad en los datos.
+Entre los métodos de ensamble más comunes, se encuentran:
+1. Agregación Bootstrap o Bagging:
+a. El primer paso consiste en generar un determinado número de muestras con remplazo, de la base de entrenamiento.
+b. Para cada muestra resultante, se ajustan los modelos individuales.
+c. La respuesta final puede darse por voto mayoritario para el caso de los árboles, o por una medida de tendencia central en caso de una regresión.
+2. Boosting:
+El método boosting no requiere muestras de la base de entrenamiento, siempre se trabaja con los datos originales. En cada paso del algoritmo se manipulan los pesos de las variables menos significantes, de tal manera que en la siguiente iteración dichas variables tomaran importancia. El método Boosting mas famoso es conocido como AdaBoost, que consta de los siguientes pasos:
+*En el paso inicial se asigna el mismo peso a todas las variables.
+*Se determinan las variables mal clasificadas, de acuerdo con una medida de error.
+*Se reajustan los pesos de dichas variables
+*Se entrena un nuevo modelo con los pesos ajustados en el ítem anterior.
+* La respuesta final ´puede darse por voto mayoritario para el caso de los árboles, o por una medida de tendencia central en caso de una regresión.
+3. Sub Espacios Aleatorios:
+En términos generales se consideran subconjuntos de featrues en cada paso de manera aleatoria. La respuesta final se obtiene de manera análoga a los tipos de ensamble anteriores.
+
+Referencias:
+* Métodos combinados de aprendizaje, Fernando Sancho Caparrini- 26 de Diciembre de 2018.
+* Carlos Valle Vidal cvalle@inf.utfsm.cl Departamento de Informatica - ´ Universidad Tecnica Federico Santa María Santiago, Junio 2009.
